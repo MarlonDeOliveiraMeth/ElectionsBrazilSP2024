@@ -1,4 +1,4 @@
-# Estudo da distribuição de votos entre partidos das eleições de 2024 em São Paulo
+# Estudo da distribuição de votos entre os partidos das eleições de 2024 em São Paulo
 
 Projeto final da disciplina Mineração de Dados e Business Intelligence, parte da minha pós-graduação em Ciência de Dados e Machine Learning na PUC Campinas.
 
